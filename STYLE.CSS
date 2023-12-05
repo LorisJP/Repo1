@@ -1,0 +1,45 @@
+
+/*Corresponde a Home*/
+
+.encabezado-ppal{background-color: #e6e6fa;}
+.Opciones-inicio li{color: #a2999c; 
+    font-weight: bold; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    display: inline;}
+
+.encabezado-ppal img{ font-size: x-small;}
+
+nav ul{list-style-type: none;}
+
+
+/* Corresponde a Contacto*/
+
+.para-contacto{color: #a2999c; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+/* Corresponde a Novedades*/
+
+.imagenes-novedades{ display: inline;}
+
+.texto-solidario{ color: #4169e1; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-weight: bold; }
+
+/*Corresponde a Promociones*/
+
+.las-promos{ color:#db7093; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.las-promos button{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+/*titulos generales*/
+
+h1{color: #a2999c; font-family: Verdana, Geneva, Tahoma, sans-serif; text-decoration: underline; }
+
+h2{color: #a2999c; font-family: Verdana, Geneva, Tahoma, sans-serif; text-decoration: underline; }
+
+h3{color: #a2999c; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+h4{color: #db7093; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold}
+
+
+
+footer{color: #f498b7;font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;}
